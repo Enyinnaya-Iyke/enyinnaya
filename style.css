@@ -118,7 +118,7 @@ hr {
   white-space: pre-wrap;
 }
 .main-bottom {
-  background-image: url("images/main-bottom.jpg");
+  background-image: url("main-bottom.jpg");
   background-size: cover;
   width: 100vw;
   height: 40vh;
